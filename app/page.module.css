@@ -107,6 +107,21 @@
 .logo {
   position: relative;
 }
+
+.activeButton {
+  background-color: green;
+  font-weight: bold;
+}
+
+.inactiveButton {
+  background-color: black;
+  font-weight: normal;
+}
+
+.chosen {
+  background-color: green;
+}
+
 /* Enable hover only on non-touch devices */
 @media (hover: hover) and (pointer: fine) {
   .card:hover {

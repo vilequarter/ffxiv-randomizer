@@ -1,3 +1,5 @@
+Currently hosted at https://ffxiv-randomizer.vercel.app/
+
 Simple web app to practice with React/Next
 
 If you have trouble making decisions like I do, this little randomizer will help!

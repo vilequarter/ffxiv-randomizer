@@ -14,4 +14,4 @@ highlight one of the selected jobs.
 
 The 'Clear' button will remove the highlight, modifying any checkbox will do this as well.
 
-![image](https://github.com/vilequarter/ffxiv-randomizer/assets/44734839/eb402b48-cd73-4820-be28-5948be9bf5c5)
+![image](https://github.com/vilequarter/ffxiv-randomizer/assets/44734839/5024441e-8d4a-4bf1-9f06-7978774c68f2)

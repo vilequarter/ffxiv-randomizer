@@ -13,3 +13,5 @@ Uncheck any boxes you don't want to be part of the selection, then click the 'Ge
 highlight one of the selected jobs.
 
 The 'Clear' button will remove the highlight, modifying any checkbox will do this as well.
+
+![image](https://github.com/vilequarter/ffxiv-randomizer/assets/44734839/eb402b48-cd73-4820-be28-5948be9bf5c5)
